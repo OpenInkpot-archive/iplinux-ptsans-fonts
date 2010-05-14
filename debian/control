@@ -1,0 +1,18 @@
+Source: ptsans-fonts
+Section: gui
+Priority: optional
+Maintainer: Alexander Kerner <lunohod@openinkpot.org>
+Homepage: http://www.paratype.com/public/
+Standards-Version: 3.8.0
+Build-Depends: debhelper (>= 7)
+XCS-Cross-Host-Build-Depends: debhelper (>= 7)
+XS-Vcs-Git: http://git.iplinux.org/ptsans-fonts.git
+XS-Vcs-Browser: http://git.iplinux.org/ptsans-fonts.git
+
+Package: ptsans-fonts
+Architecture: all
+Description: Pan-Cyrillic public font family.
+ PT Sans is based on Russian sans serif types of the second part of the XX
+ century, but at the same time has a very distinctive features of modern
+ humanistic design. The family consists of 8 styles: 4 basic styles; 2 captions
+ styles for small sizes and 2 narrows styles for economic setting.
