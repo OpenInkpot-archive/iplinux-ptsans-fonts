@@ -1,3 +1,9 @@
+ptsans-fonts (0.2) zelazny; urgency=low
+
+  * New upstream version (23 December, 2010).
+
+ -- Mikhail Gusarov <dottedmag@dottedmag.net>  Fri, 31 Dec 2010 13:51:06 +0100
+
 ptsans-fonts (0.1) zelazny; urgency=low
 
   * First build for IPlinux.
